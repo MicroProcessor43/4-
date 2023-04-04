@@ -1,0 +1,89 @@
+__Lrdata 2F FFFFFFD4 DATA
+__Hrbss 2F 0 DATA
+__Lrbss 20 0 DATA
+__Birdata 3 FFFFFFD4 DATA
+__Hirdata 2F FFFFFFD4 DATA
+__Lirdata 2F FFFFFFD4 DATA
+powerup C8 0 CODE
+__Htext 2F 0
+__Ltext 2F 0
+__Hcode 2F 0
+__Lcode 2F 0
+__Hdata 100 0 CODE
+__Hconst 100 0 CODE
+__Ldata 100 0 CODE
+__Lconst 100 0 CODE
+__Bbss 2F 0 XDATA
+__Hbss 2F 0 XDATA
+__Hstrings 100 0 CODE
+__Lbss 2F 0 XDATA
+__Lstrings 100 0 CODE
+?a_msec 2D 0 DATA
+__S0 100 0
+start1 B4 0 CODE
+__Hnvram 2F 0 XDATA
+small_model 1 0
+__Lnvram 2F 0 XDATA
+_msec 3 0 CODE
+__Hheap 2F 0 XDATA
+__Lheap 2F 0 XDATA
+_main 3E 0 CODE
+?a_main 20 0 DATA
+_exit C5 0 CODE
+start 0 0 CODE
+intlevel0 0 0
+__Brbit 20 20 BITSEG
+__Hrbit 0 20 BITSEG
+intlevel1 0 0
+__Hvectors 3 0 CODE
+__Lrbit 0 20 BITSEG
+__Lvectors 0 0 CODE
+__Bidata 2F 0 DATA
+__Hidata 2F 0 DATA
+__Lidata 2F 0 DATA
+stack_internal 1 0
+__Brdata 3 FFFFFFD4 DATA
+__Hrdata 2F FFFFFFD4 DATA
+%segments
+vectors 0 CA CODE
+rbit 0 E BITSEG
+%locals
+Z:\main_0.obj
+C:\Users\student\Desktop\51A2~1\4818A~1\U1\project1\main.c
+3 3 0 CODE
+4 9 0 CODE
+5 B 0 CODE
+6 E 0 CODE
+7 11 0 CODE
+9 13 0 CODE
+10 1E 0 CODE
+11 20 0 CODE
+4 22 0 CODE
+13 3B 0 CODE
+15 3E 0 CODE
+16 40 0 CODE
+17 45 0 CODE
+19 4A 0 CODE
+20 4D 0 CODE
+21 50 0 CODE
+22 53 0 CODE
+23 56 0 CODE
+24 59 0 CODE
+25 5C 0 CODE
+26 5F 0 CODE
+27 62 0 CODE
+28 65 0 CODE
+29 68 0 CODE
+30 6B 0 CODE
+33 72 0 CODE
+34 76 0 CODE
+35 7D 0 CODE
+36 83 0 CODE
+37 8A 0 CODE
+38 8E 0 CODE
+39 95 0 CODE
+40 9B 0 CODE
+41 A2 0 CODE
+42 A8 0 CODE
+31 AF 0 CODE
+44 B1 0 CODE
